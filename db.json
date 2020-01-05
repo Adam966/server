@@ -1,0 +1,40 @@
+[
+    {
+      "eventName": "",
+      "location": {
+        "coordinates": {
+          "lat": 0,
+          "lon": 0
+        },
+        "address": "",
+        "postCode": "",
+        "town": "",
+        "state": ""
+      },
+      "description": "",
+      "date": "",
+      "type": false,
+      "tag": "",
+      "ownerID": 0, 
+      "id": 0
+    },
+    {
+    "eventName": "",
+      "location": {
+        "coordinates": {
+          "lat": 0,
+          "lon": 0
+        },
+        "address": "",
+        "postCode": "",
+        "town": "",
+        "state": ""
+      },
+      "description": "",
+      "date": "",
+      "type": false,
+      "tag": "",
+      "ownerID": 0, 
+      "id": 1
+    }
+]
